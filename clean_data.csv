@@ -1,0 +1,557 @@
+team,team_name,year,total,home_attendance,away_attendance,wins,loss,playoffs,superbowl_winner,win_percentage,state,county,gdp_chained_million$,stadium_renovation_year,renovated
+Arizona,Cardinals,2001,811391,307315,504076,7,9,No Playoffs,0,0.44,Arizona,Maricopa,145484.0,2006,False
+Arizona,Cardinals,2002,898877,327272,571605,5,11,No Playoffs,0,0.31,Arizona,Maricopa,150559.0,2006,False
+Arizona,Cardinals,2003,804401,288499,515902,4,12,No Playoffs,0,0.25,Arizona,Maricopa,160947.0,2006,False
+Arizona,Cardinals,2004,838557,300267,538290,6,10,No Playoffs,0,0.38,Arizona,Maricopa,169495.0,2006,False
+Arizona,Cardinals,2005,920848,401035,519813,5,11,No Playoffs,0,0.31,Arizona,Maricopa,184185.0,2006,False
+Arizona,Cardinals,2006,1041022,508829,532193,5,11,No Playoffs,0,0.31,Arizona,Maricopa,193803.0,2006,True
+Arizona,Cardinals,2007,1072427,516646,555781,8,8,No Playoffs,0,0.5,Arizona,Maricopa,196924.0,2006,False
+Arizona,Cardinals,2008,1087072,512775,574297,9,7,Playoffs,0,0.56,Arizona,Maricopa,190845.0,2006,False
+Arizona,Cardinals,2009,999150,505143,494007,10,6,Playoffs,0,0.62,Arizona,Maricopa,173872.0,2006,False
+Arizona,Cardinals,2010,1022730,502197,520533,5,11,No Playoffs,0,0.31,Arizona,Maricopa,174801.0,2006,False
+Arizona,Cardinals,2011,1001663,489455,512208,8,8,No Playoffs,0,0.5,Arizona,Maricopa,179625.0,2006,False
+Arizona,Cardinals,2012,1028241,487125,541116,5,11,No Playoffs,0,0.31,Arizona,Maricopa,186117.0,2006,False
+Arizona,Cardinals,2013,997710,488271,509439,10,6,No Playoffs,0,0.62,Arizona,Maricopa,187689.0,2006,False
+Arizona,Cardinals,2014,1053326,495835,557491,11,5,Playoffs,0,0.69,Arizona,Maricopa,191251.0,2006,False
+Arizona,Cardinals,2015,1028446,513487,514959,13,3,Playoffs,0,0.81,Arizona,Maricopa,197557.0,2006,False
+Arizona,Cardinals,2016,1083135,518652,564483,7,8,No Playoffs,0,0.47,Arizona,Maricopa,204283.0,2006,False
+Arizona,Cardinals,2017,1063084,513741,549343,8,8,No Playoffs,0,0.5,Arizona,Maricopa,211309.0,2006,False
+Arizona,Cardinals,2018,1018127,496111,522016,3,13,No Playoffs,0,0.19,Arizona,Maricopa,220790.0,2006,False
+Atlanta,Falcons,2001,917882,425717,492165,7,9,No Playoffs,0,0.44,Georgia,Fulton,106239.0,2017,False
+Atlanta,Falcons,2002,1099147,550974,548173,9,6,Playoffs,0,0.6,Georgia,Fulton,107758.0,2017,False
+Atlanta,Falcons,2003,1106928,563676,543252,5,11,No Playoffs,0,0.31,Georgia,Fulton,109552.0,2017,False
+Atlanta,Falcons,2004,1133146,564769,568377,11,5,Playoffs,0,0.69,Georgia,Fulton,114888.0,2017,False
+Atlanta,Falcons,2005,1104620,565106,539514,8,8,No Playoffs,0,0.5,Georgia,Fulton,123156.0,2017,False
+Atlanta,Falcons,2006,1126210,563462,562748,7,9,No Playoffs,0,0.44,Georgia,Fulton,123407.0,2017,False
+Atlanta,Falcons,2007,1075623,547167,528456,4,12,No Playoffs,0,0.25,Georgia,Fulton,121885.0,2017,False
+Atlanta,Falcons,2008,1040162,502813,537349,11,5,Playoffs,0,0.69,Georgia,Fulton,117233.0,2017,False
+Atlanta,Falcons,2009,1126660,545389,581271,9,7,No Playoffs,0,0.56,Georgia,Fulton,111880.0,2017,False
+Atlanta,Falcons,2010,1056190,542800,513390,13,3,Playoffs,0,0.81,Georgia,Fulton,113838.0,2017,False
+Atlanta,Falcons,2011,1073420,551892,521528,10,6,Playoffs,0,0.62,Georgia,Fulton,118566.0,2017,False
+Atlanta,Falcons,2012,1102398,560773,541625,13,3,Playoffs,0,0.81,Georgia,Fulton,119431.0,2017,False
+Atlanta,Falcons,2013,1080805,561795,519010,4,12,No Playoffs,0,0.25,Georgia,Fulton,122474.0,2017,False
+Atlanta,Falcons,2014,1121026,577047,543979,6,10,No Playoffs,0,0.38,Georgia,Fulton,128843.0,2017,False
+Atlanta,Falcons,2015,1134671,562845,571826,8,8,No Playoffs,0,0.5,Georgia,Fulton,134305.0,2017,False
+Atlanta,Falcons,2016,1116392,559998,556394,11,5,Playoffs,0,0.69,Georgia,Fulton,141795.0,2017,False
+Atlanta,Falcons,2017,1123058,575681,547377,10,6,Playoffs,0,0.62,Georgia,Fulton,148754.0,2017,True
+Atlanta,Falcons,2018,1119143,583184,535959,7,9,No Playoffs,0,0.44,Georgia,Fulton,152384.0,2017,False
+Baltimore,Ravens,2001,1064731,554991,509740,10,6,Playoffs,0,0.62,Maryland,Baltimore,39339.185,1998,False
+Baltimore,Ravens,2002,1073464,554724,518740,7,9,No Playoffs,0,0.44,Maryland,Baltimore,39772.345,1998,False
+Baltimore,Ravens,2003,1006929,556634,450295,10,6,Playoffs,0,0.62,Maryland,Baltimore,39664.88,1998,False
+Baltimore,Ravens,2004,1123288,558594,564694,9,7,No Playoffs,0,0.56,Maryland,Baltimore,40684.73,1998,False
+Baltimore,Ravens,2005,1097015,563076,533939,6,10,No Playoffs,0,0.38,Maryland,Baltimore,42647.845,1998,False
+Baltimore,Ravens,2006,1125187,566547,558640,13,3,Playoffs,0,0.81,Maryland,Baltimore,43570.33,1998,False
+Baltimore,Ravens,2007,1112200,569226,542974,5,11,No Playoffs,0,0.31,Maryland,Baltimore,43269.2,1998,False
+Baltimore,Ravens,2008,1115465,570152,545313,11,5,Playoffs,0,0.69,Maryland,Baltimore,42834.545,1998,False
+Baltimore,Ravens,2009,1074077,568660,505417,9,7,Playoffs,0,0.56,Maryland,Baltimore,42389.575000000004,1998,False
+Baltimore,Ravens,2010,1123436,569817,553619,12,4,Playoffs,0,0.75,Maryland,Baltimore,43569.555,1998,False
+Baltimore,Ravens,2011,1083902,569792,514110,12,4,Playoffs,0,0.75,Maryland,Baltimore,43580.784999999996,1998,False
+Baltimore,Ravens,2012,1109404,570229,539175,10,6,Playoffs,1,0.62,Maryland,Baltimore,43583.58,1998,False
+Baltimore,Ravens,2013,1106022,569084,536938,8,8,No Playoffs,0,0.5,Maryland,Baltimore,43728.82,1998,False
+Baltimore,Ravens,2014,1096129,568353,527776,10,6,Playoffs,0,0.62,Maryland,Baltimore,44283.485,1998,False
+Baltimore,Ravens,2015,1083919,568018,515901,5,11,No Playoffs,0,0.31,Maryland,Baltimore,44565.18,1998,False
+Baltimore,Ravens,2016,1134133,568823,565310,8,8,No Playoffs,0,0.5,Maryland,Baltimore,46073.375,1998,False
+Baltimore,Ravens,2017,1088056,564709,523347,9,7,No Playoffs,0,0.56,Maryland,Baltimore,46170.065,1998,False
+Baltimore,Ravens,2018,1053383,563451,489932,10,6,Playoffs,0,0.62,Maryland,Baltimore,47255.02,1998,False
+Buffalo,Bills,2001,1005954,504736,501218,3,13,No Playoffs,0,0.19,New York,Erie,39996.48,1973,False
+Buffalo,Bills,2002,1119646,547702,571944,8,8,No Playoffs,0,0.5,New York,Erie,40757.27,1973,False
+Buffalo,Bills,2003,1152118,584122,567996,6,10,No Playoffs,0,0.38,New York,Erie,41458.38,1973,False
+Buffalo,Bills,2004,1112531,574399,538132,9,7,No Playoffs,0,0.56,New York,Erie,42724.41,1973,False
+Buffalo,Bills,2005,1090208,575248,514960,5,11,No Playoffs,0,0.31,New York,Erie,43335.18,1973,False
+Buffalo,Bills,2006,1081107,541169,539938,7,9,No Playoffs,0,0.44,New York,Erie,45333.98,1973,False
+Buffalo,Bills,2007,1140970,568437,572533,7,9,No Playoffs,0,0.44,New York,Erie,45590.3,1973,False
+Buffalo,Bills,2008,1102421,551969,550452,7,9,No Playoffs,0,0.44,New York,Erie,46262.94,1973,False
+Buffalo,Bills,2009,1080744,542465,538279,6,10,No Playoffs,0,0.38,New York,Erie,46511.91,1973,False
+Buffalo,Bills,2010,1034650,493112,541538,4,12,No Playoffs,0,0.25,New York,Erie,47835.16,1973,False
+Buffalo,Bills,2011,1032609,490443,542166,6,10,No Playoffs,0,0.38,New York,Erie,47136.08,1973,False
+Buffalo,Bills,2012,1033263,495423,537840,6,10,No Playoffs,0,0.38,New York,Erie,48700.21,1973,False
+Buffalo,Bills,2013,1032476,502842,529634,6,10,No Playoffs,0,0.38,New York,Erie,48113.39,1973,False
+Buffalo,Bills,2014,1085974,540180,545794,9,7,No Playoffs,0,0.56,New York,Erie,49265.6,1973,False
+Buffalo,Bills,2015,1140809,559047,581762,8,8,No Playoffs,0,0.5,New York,Erie,50320.42,1973,False
+Buffalo,Bills,2016,1098702,548073,550629,7,9,No Playoffs,0,0.44,New York,Erie,50556.0,1973,False
+Buffalo,Bills,2017,1040917,534200,506717,9,7,Playoffs,0,0.56,New York,Erie,51067.83,1973,False
+Buffalo,Bills,2018,1072899,519695,553204,6,10,No Playoffs,0,0.38,New York,Erie,51595.43,1973,False
+Carolina,Panthers,2001,1085651,579080,506571,1,15,No Playoffs,0,0.06,North Carolina,Mecklenburg,56262.35,1996,False
+Carolina,Panthers,2002,1092895,572015,520880,7,9,No Playoffs,0,0.44,North Carolina,Mecklenburg,57683.64,1996,False
+Carolina,Panthers,2003,1078988,582566,496422,11,5,Playoffs,0,0.69,North Carolina,Mecklenburg,61453.79,1996,False
+Carolina,Panthers,2004,1132109,586259,545850,7,9,No Playoffs,0,0.44,North Carolina,Mecklenburg,65711.32,1996,False
+Carolina,Panthers,2005,1061837,587700,474137,11,5,Playoffs,0,0.69,North Carolina,Mecklenburg,72183.9,1996,False
+Carolina,Panthers,2006,1147260,588537,558723,8,8,No Playoffs,0,0.5,North Carolina,Mecklenburg,76583.97,1996,False
+Carolina,Panthers,2007,1126754,587221,539533,7,9,No Playoffs,0,0.44,North Carolina,Mecklenburg,77729.12,1996,False
+Carolina,Panthers,2008,1111316,585684,525632,12,4,Playoffs,0,0.75,North Carolina,Mecklenburg,86138.37,1996,False
+Carolina,Panthers,2009,1162625,586314,576311,8,8,No Playoffs,0,0.5,North Carolina,Mecklenburg,78247.31,1996,False
+Carolina,Panthers,2010,1084908,580965,503943,2,14,No Playoffs,0,0.12,North Carolina,Mecklenburg,72924.77,1996,False
+Carolina,Panthers,2011,1098587,578342,520245,6,10,No Playoffs,0,0.38,North Carolina,Mecklenburg,79029.37,1996,False
+Carolina,Panthers,2012,1108455,586347,522108,7,9,No Playoffs,0,0.44,North Carolina,Mecklenburg,85730.11,1996,False
+Carolina,Panthers,2013,1112229,587544,524685,12,4,Playoffs,0,0.75,North Carolina,Mecklenburg,84146.44,1996,False
+Carolina,Panthers,2014,1123313,588861,534452,7,8,Playoffs,0,0.47,North Carolina,Mecklenburg,87097.53,1996,False
+Carolina,Panthers,2015,1157689,592454,565235,15,1,Playoffs,0,0.94,North Carolina,Mecklenburg,92297.86,1996,False
+Carolina,Panthers,2016,1159680,590343,569337,6,10,No Playoffs,0,0.38,North Carolina,Mecklenburg,92994.05,1996,False
+Carolina,Panthers,2017,1133961,588942,545019,11,5,Playoffs,0,0.69,North Carolina,Mecklenburg,95855.61,1996,False
+Carolina,Panthers,2018,1102756,590182,512574,7,9,No Playoffs,0,0.44,North Carolina,Mecklenburg,97637.01,1996,False
+Chicago,Bears,2001,1059454,535552,523902,13,3,Playoffs,0,0.81,Illinois,Cook,324513.0,2003,False
+Chicago,Bears,2002,1029316,487255,542061,4,12,No Playoffs,0,0.25,Illinois,Cook,322996.0,2003,False
+Chicago,Bears,2003,1031247,479585,551662,7,9,No Playoffs,0,0.44,Illinois,Cook,323081.0,2003,True
+Chicago,Bears,2004,1037347,495706,541641,5,11,No Playoffs,0,0.31,Illinois,Cook,329182.0,2003,False
+Chicago,Bears,2005,1015156,496965,518191,11,5,Playoffs,0,0.69,Illinois,Cook,337394.0,2003,False
+Chicago,Bears,2006,1048363,497786,550577,13,3,Playoffs,0,0.81,Illinois,Cook,339392.0,2003,False
+Chicago,Bears,2007,1041602,497267,544335,7,9,No Playoffs,0,0.44,Illinois,Cook,341013.0,2003,False
+Chicago,Bears,2008,1028406,496276,532130,9,7,No Playoffs,0,0.56,Illinois,Cook,330101.0,2003,False
+Chicago,Bears,2009,1031114,498000,533114,7,9,No Playoffs,0,0.44,Illinois,Cook,320359.0,2003,False
+Chicago,Bears,2010,1022863,497561,525302,11,5,Playoffs,0,0.69,Illinois,Cook,322934.0,2003,False
+Chicago,Bears,2011,1053343,497166,556177,8,8,No Playoffs,0,0.5,Illinois,Cook,327638.0,2003,False
+Chicago,Bears,2012,1056462,498633,557829,10,6,No Playoffs,0,0.62,Illinois,Cook,334992.0,2003,False
+Chicago,Bears,2013,1057075,498864,558211,8,8,No Playoffs,0,0.5,Illinois,Cook,338427.0,2003,False
+Chicago,Bears,2014,1050366,493449,556917,5,11,No Playoffs,0,0.31,Illinois,Cook,342176.0,2003,False
+Chicago,Bears,2015,1020065,496287,523778,6,10,No Playoffs,0,0.38,Illinois,Cook,348451.0,2003,False
+Chicago,Bears,2016,1060607,482951,577656,3,13,No Playoffs,0,0.19,Illinois,Cook,351380.0,2003,False
+Chicago,Bears,2017,1021219,488137,533082,5,11,No Playoffs,0,0.31,Illinois,Cook,354455.0,2003,False
+Chicago,Bears,2018,1045568,490750,554818,12,4,Playoffs,0,0.75,Illinois,Cook,362064.0,2003,False
+Cincinnati,Bengals,2001,988273,454938,533335,6,10,No Playoffs,0,0.38,Ohio,Hamilton,60803.79,2000,False
+Cincinnati,Bengals,2002,934265,422235,512030,2,14,No Playoffs,0,0.12,Ohio,Hamilton,62575.490000000005,2000,False
+Cincinnati,Bengals,2003,945592,479488,466104,8,8,No Playoffs,0,0.5,Ohio,Hamilton,62437.0,2000,False
+Cincinnati,Bengals,2004,1099386,524248,575138,8,8,No Playoffs,0,0.5,Ohio,Hamilton,62090.57,2000,False
+Cincinnati,Bengals,2005,1069357,526469,542888,11,5,Playoffs,0,0.69,Ohio,Hamilton,62689.12,2000,False
+Cincinnati,Bengals,2006,1081250,527870,553380,8,8,No Playoffs,0,0.5,Ohio,Hamilton,61195.0,2000,False
+Cincinnati,Bengals,2007,1083308,526320,556988,7,9,No Playoffs,0,0.44,Ohio,Hamilton,61208.56,2000,False
+Cincinnati,Bengals,2008,1076462,516663,559799,4,11,No Playoffs,0,0.27,Ohio,Hamilton,61768.53999999999,2000,False
+Cincinnati,Bengals,2009,1035068,512032,523036,10,6,Playoffs,0,0.62,Ohio,Hamilton,59244.01,2000,False
+Cincinnati,Bengals,2010,1033852,482917,550935,4,12,No Playoffs,0,0.25,Ohio,Hamilton,60427.1,2000,False
+Cincinnati,Bengals,2011,923005,394009,528996,9,7,Playoffs,0,0.56,Ohio,Hamilton,63124.83000000001,2000,False
+Cincinnati,Bengals,2012,1021414,489504,531910,10,6,Playoffs,0,0.62,Ohio,Hamilton,63288.28999999999,2000,False
+Cincinnati,Bengals,2013,1001806,506377,495429,11,5,Playoffs,0,0.69,Ohio,Hamilton,63333.51999999999,2000,False
+Cincinnati,Bengals,2014,1025166,485628,539538,10,5,Playoffs,0,0.67,Ohio,Hamilton,63514.37,2000,False
+Cincinnati,Bengals,2015,1028118,491118,537000,12,4,Playoffs,0,0.75,Ohio,Hamilton,64157.240000000005,2000,False
+Cincinnati,Bengals,2016,1088770,508071,580699,6,9,No Playoffs,0,0.4,Ohio,Hamilton,65651.53,2000,False
+Cincinnati,Bengals,2017,978253,425937,552316,7,9,No Playoffs,0,0.44,Ohio,Hamilton,66604.17,2000,False
+Cincinnati,Bengals,2018,911289,406028,505261,6,10,No Playoffs,0,0.38,Ohio,Hamilton,66977.58,2000,False
+Cleveland,Browns,2001,1089586,583094,506492,7,9,No Playoffs,0,0.44,Ohio,Cuyahoga,79519.38,1999,False
+Cleveland,Browns,2002,1110061,586294,523767,9,7,Playoffs,0,0.56,Ohio,Cuyahoga,80968.18,1999,False
+Cleveland,Browns,2003,1139440,585564,553876,5,11,No Playoffs,0,0.31,Ohio,Cuyahoga,82792.88,1999,False
+Cleveland,Browns,2004,1141770,584840,556930,4,12,No Playoffs,0,0.25,Ohio,Cuyahoga,84034.11,1999,False
+Cleveland,Browns,2005,1081072,578330,502742,6,10,No Playoffs,0,0.38,Ohio,Cuyahoga,85897.64,1999,False
+Cleveland,Browns,2006,1112241,578672,533569,4,12,No Playoffs,0,0.25,Ohio,Cuyahoga,83669.43,1999,False
+Cleveland,Browns,2007,1110086,584006,526080,10,6,No Playoffs,0,0.62,Ohio,Cuyahoga,83761.34,1999,False
+Cleveland,Browns,2008,1147622,582230,565392,4,12,No Playoffs,0,0.25,Ohio,Cuyahoga,84338.58,1999,False
+Cleveland,Browns,2009,1054215,551110,503105,5,11,No Playoffs,0,0.31,Ohio,Cuyahoga,78432.11,1999,False
+Cleveland,Browns,2010,1017907,528933,488974,5,11,No Playoffs,0,0.31,Ohio,Cuyahoga,78309.95,1999,False
+Cleveland,Browns,2011,1030992,526874,504118,4,12,No Playoffs,0,0.25,Ohio,Cuyahoga,79583.68,1999,False
+Cleveland,Browns,2012,1065268,533058,532210,5,11,No Playoffs,0,0.31,Ohio,Cuyahoga,80703.54,1999,False
+Cleveland,Browns,2013,1122750,569939,552811,4,12,No Playoffs,0,0.25,Ohio,Cuyahoga,81379.97,1999,False
+Cleveland,Browns,2014,1083855,539400,544455,7,9,No Playoffs,0,0.44,Ohio,Cuyahoga,84184.17,1999,False
+Cleveland,Browns,2015,1062262,529488,532774,3,13,No Playoffs,0,0.19,Ohio,Cuyahoga,85763.96,1999,False
+Cleveland,Browns,2016,1044825,514489,530336,1,15,No Playoffs,0,0.06,Ohio,Cuyahoga,85879.39,1999,False
+Cleveland,Browns,2017,968007,511060,456947,0,16,No Playoffs,0,0.0,Ohio,Cuyahoga,86988.14,1999,False
+Cleveland,Browns,2018,1045441,526122,519319,7,8,No Playoffs,0,0.47,Ohio,Cuyahoga,88717.69,1999,False
+Dallas,Cowboys,2001,1056213,505501,550712,5,11,No Playoffs,0,0.31,Texas,Tarrant,65805.3,2009,False
+Dallas,Cowboys,2002,1047411,504717,542694,5,11,No Playoffs,0,0.31,Texas,Tarrant,68007.74,2009,False
+Dallas,Cowboys,2003,1071700,511224,560476,10,6,Playoffs,0,0.62,Texas,Tarrant,68686.98,2009,False
+Dallas,Cowboys,2004,1086004,510892,575112,6,10,No Playoffs,0,0.38,Texas,Tarrant,73059.68,2009,False
+Dallas,Cowboys,2005,1081038,505258,575780,9,7,No Playoffs,0,0.56,Texas,Tarrant,77817.39,2009,False
+Dallas,Cowboys,2006,1089509,506308,583201,9,7,Playoffs,0,0.56,Texas,Tarrant,82832.38,2009,False
+Dallas,Cowboys,2007,1087748,508278,579470,13,3,Playoffs,0,0.81,Texas,Tarrant,86440.1,2009,False
+Dallas,Cowboys,2008,1076887,506944,569943,9,7,No Playoffs,0,0.56,Texas,Tarrant,87650.1,2009,False
+Dallas,Cowboys,2009,1307231,718055,589176,11,5,Playoffs,0,0.69,Texas,Tarrant,87081.12,2009,True
+Dallas,Cowboys,2010,1277973,696377,581596,6,10,No Playoffs,0,0.38,Texas,Tarrant,88638.76,2009,False
+Dallas,Cowboys,2011,1258971,684096,574875,8,8,No Playoffs,0,0.5,Texas,Tarrant,89387.03,2009,False
+Dallas,Cowboys,2012,1290328,708249,582079,8,8,No Playoffs,0,0.5,Texas,Tarrant,93035.77,2009,False
+Dallas,Cowboys,2013,1279578,704345,575233,8,8,No Playoffs,0,0.5,Texas,Tarrant,94937.48,2009,False
+Dallas,Cowboys,2014,1293046,720558,572488,12,4,Playoffs,0,0.75,Texas,Tarrant,98440.48,2009,False
+Dallas,Cowboys,2015,1312509,731672,580837,4,12,No Playoffs,0,0.25,Texas,Tarrant,101178.0,2009,False
+Dallas,Cowboys,2016,1322087,740318,581769,13,3,Playoffs,0,0.81,Texas,Tarrant,102173.0,2009,False
+Dallas,Cowboys,2017,1309211,741775,567436,9,7,No Playoffs,0,0.56,Texas,Tarrant,104651.0,2009,False
+Dallas,Cowboys,2018,1303393,732958,570435,10,6,Playoffs,0,0.62,Texas,Tarrant,108786.0,2009,False
+Denver,Broncos,2001,1115203,600283,514920,8,8,No Playoffs,0,0.5,Colorado,Denver,56333.97,2001,True
+Denver,Broncos,2002,1161974,604904,557070,9,7,No Playoffs,0,0.56,Colorado,Denver,52974.69,2001,False
+Denver,Broncos,2003,1134086,607167,526919,10,6,Playoffs,0,0.62,Colorado,Denver,52627.74,2001,False
+Denver,Broncos,2004,1140618,601031,539587,10,6,Playoffs,0,0.62,Colorado,Denver,52745.08,2001,False
+Denver,Broncos,2005,1167388,608790,558598,13,3,Playoffs,0,0.81,Colorado,Denver,55046.78,2001,False
+Denver,Broncos,2006,1155737,610782,544955,9,7,No Playoffs,0,0.56,Colorado,Denver,54059.06,2001,False
+Denver,Broncos,2007,1139812,612893,526919,7,9,No Playoffs,0,0.44,Colorado,Denver,56102.61,2001,False
+Denver,Broncos,2008,1159630,604074,555556,8,8,No Playoffs,0,0.5,Colorado,Denver,54582.89,2001,False
+Denver,Broncos,2009,1139659,600928,538731,8,8,No Playoffs,0,0.5,Colorado,Denver,52505.63,2001,False
+Denver,Broncos,2010,1129448,599264,530184,4,12,No Playoffs,0,0.25,Colorado,Denver,52411.75,2001,False
+Denver,Broncos,2011,1109610,602618,506992,8,8,Playoffs,0,0.5,Colorado,Denver,53140.76,2001,False
+Denver,Broncos,2012,1157779,613062,544717,13,3,Playoffs,0,0.81,Colorado,Denver,54750.68,2001,False
+Denver,Broncos,2013,1194145,614977,579168,13,3,Playoffs,0,0.81,Colorado,Denver,57610.11,2001,False
+Denver,Broncos,2014,1156767,615517,541250,12,4,Playoffs,0,0.75,Colorado,Denver,60332.26,2001,False
+Denver,Broncos,2015,1141878,615381,526497,12,4,Playoffs,1,0.75,Colorado,Denver,64116.86000000001,2001,False
+Denver,Broncos,2016,1133943,614193,519750,9,7,No Playoffs,0,0.56,Colorado,Denver,64925.15,2001,False
+Denver,Broncos,2017,1106590,610846,495744,5,11,No Playoffs,0,0.31,Colorado,Denver,67039.71,2001,False
+Denver,Broncos,2018,1092324,611571,480753,6,10,No Playoffs,0,0.38,Colorado,Denver,70054.38,2001,False
+Detroit,Lions,2001,1093748,601815,491933,2,14,No Playoffs,0,0.12,Michigan,Wayne,88670.6,2002,False
+Detroit,Lions,2002,994267,489742,504525,3,13,No Playoffs,0,0.19,Michigan,Wayne,89117.91,2002,True
+Detroit,Lions,2003,1045766,490442,555324,5,11,No Playoffs,0,0.31,Michigan,Wayne,91701.97,2002,False
+Detroit,Lions,2004,1043481,499162,544319,6,10,No Playoffs,0,0.38,Michigan,Wayne,91206.01,2002,False
+Detroit,Lions,2005,1016559,492580,523979,5,11,No Playoffs,0,0.31,Michigan,Wayne,92469.78,2002,False
+Detroit,Lions,2006,1021303,487116,534187,3,13,No Playoffs,0,0.19,Michigan,Wayne,91627.44,2002,False
+Detroit,Lions,2007,1035791,490436,545355,7,9,No Playoffs,0,0.44,Michigan,Wayne,91199.56,2002,False
+Detroit,Lions,2008,970445,435979,534466,0,16,No Playoffs,0,0.0,Michigan,Wayne,85018.24,2002,False
+Detroit,Lions,2009,931681,395162,536519,2,14,No Playoffs,0,0.12,Michigan,Wayne,74962.62,2002,False
+Detroit,Lions,2010,977218,450286,526932,6,10,No Playoffs,0,0.38,Michigan,Wayne,78338.87,2002,False
+Detroit,Lions,2011,1041580,509940,531640,10,6,Playoffs,0,0.62,Michigan,Wayne,79944.08,2002,False
+Detroit,Lions,2012,1038451,510158,528293,4,12,No Playoffs,0,0.25,Michigan,Wayne,80545.97,2002,False
+Detroit,Lions,2013,1053841,510369,543472,7,9,No Playoffs,0,0.44,Michigan,Wayne,81748.25,2002,False
+Detroit,Lions,2014,1062760,504198,558562,11,5,Playoffs,0,0.69,Michigan,Wayne,82771.02,2002,False
+Detroit,Lions,2015,1025745,490782,534963,7,9,No Playoffs,0,0.44,Michigan,Wayne,84084.63,2002,False
+Detroit,Lions,2016,1075305,486342,588963,9,7,Playoffs,0,0.56,Michigan,Wayne,85464.9,2002,False
+Detroit,Lions,2017,1046765,513100,533665,9,7,No Playoffs,0,0.56,Michigan,Wayne,86258.0,2002,False
+Detroit,Lions,2018,1054328,502061,552267,6,10,No Playoffs,0,0.38,Michigan,Wayne,88005.73,2002,False
+Green Bay,Packers,2001,1040215,478433,561782,12,4,Playoffs,0,0.75,Wisconsin,Brown,12534.49,1959,False
+Green Bay,Packers,2002,1046418,508788,537630,12,4,Playoffs,0,0.75,Wisconsin,Brown,12790.19,1959,False
+Green Bay,Packers,2003,1067556,562819,504737,10,6,Playoffs,0,0.62,Wisconsin,Brown,13233.05,1959,False
+Green Bay,Packers,2004,1112569,564400,548169,10,6,Playoffs,0,0.62,Wisconsin,Brown,13642.92,1959,False
+Green Bay,Packers,2005,1099618,562419,537199,4,12,No Playoffs,0,0.25,Wisconsin,Brown,13977.29,1959,False
+Green Bay,Packers,2006,1104825,565749,539076,8,8,No Playoffs,0,0.5,Wisconsin,Brown,14249.55,1959,False
+Green Bay,Packers,2007,1120775,566443,554332,13,3,Playoffs,0,0.81,Wisconsin,Brown,14338.74,1959,False
+Green Bay,Packers,2008,1089433,565460,523973,6,10,No Playoffs,0,0.38,Wisconsin,Brown,14205.59,1959,False
+Green Bay,Packers,2009,1067183,565666,501517,11,5,Playoffs,0,0.69,Wisconsin,Brown,13841.3,1959,False
+Green Bay,Packers,2010,1122668,566362,556306,10,6,Playoffs,1,0.62,Wisconsin,Brown,14379.16,1959,False
+Green Bay,Packers,2011,1123023,564097,558926,15,1,Playoffs,0,0.94,Wisconsin,Brown,14601.16,1959,False
+Green Bay,Packers,2012,1106110,564062,542048,11,5,Playoffs,0,0.69,Wisconsin,Brown,14966.78,1959,False
+Green Bay,Packers,2013,1191205,623577,567628,8,7,Playoffs,0,0.53,Wisconsin,Brown,14699.38,1959,False
+Green Bay,Packers,2014,1148560,625114,523446,12,4,Playoffs,0,0.75,Wisconsin,Brown,15603.490000000002,1959,False
+Green Bay,Packers,2015,1147786,627308,520478,10,6,Playoffs,0,0.62,Wisconsin,Brown,16049.45,1959,False
+Green Bay,Packers,2016,1169215,625727,543488,10,6,Playoffs,0,0.62,Wisconsin,Brown,16375.759999999998,1959,False
+Green Bay,Packers,2017,1183556,624742,558814,7,9,No Playoffs,0,0.44,Wisconsin,Brown,16432.4,1959,False
+Green Bay,Packers,2018,1163842,622677,541165,6,9,No Playoffs,0,0.4,Wisconsin,Brown,16864.68,1959,False
+Indianapolis,Colts,2001,1006986,450746,556240,6,10,No Playoffs,0,0.38,Indiana,Marion,70800.61,2008,False
+Indianapolis,Colts,2002,1004762,453357,551405,10,6,Playoffs,0,0.62,Indiana,Marion,71143.45,2008,False
+Indianapolis,Colts,2003,993951,454138,539813,12,4,Playoffs,0,0.75,Indiana,Marion,72428.31,2008,False
+Indianapolis,Colts,2004,1016831,456791,560040,12,4,Playoffs,0,0.75,Indiana,Marion,76898.97,2008,False
+Indianapolis,Colts,2005,1005498,457373,548125,14,2,Playoffs,0,0.88,Indiana,Marion,76946.06,2008,False
+Indianapolis,Colts,2006,1028634,457154,571480,12,4,Playoffs,1,0.75,Indiana,Marion,77510.82,2008,False
+Indianapolis,Colts,2007,1009598,458437,551161,13,3,Playoffs,0,0.81,Indiana,Marion,81198.66,2008,False
+Indianapolis,Colts,2008,1075412,531026,544386,12,4,Playoffs,0,0.75,Indiana,Marion,84202.38,2008,True
+Indianapolis,Colts,2009,1066479,532398,534081,14,2,Playoffs,0,0.88,Indiana,Marion,81618.78,2008,False
+Indianapolis,Colts,2010,1093781,535802,557979,10,6,Playoffs,0,0.62,Indiana,Marion,83519.95,2008,False
+Indianapolis,Colts,2011,1050690,518627,532063,2,14,No Playoffs,0,0.12,Indiana,Marion,82651.61,2008,False
+Indianapolis,Colts,2012,1062645,521518,541127,11,5,Playoffs,0,0.69,Indiana,Marion,79986.06,2008,False
+Indianapolis,Colts,2013,1054693,527606,527087,11,5,Playoffs,0,0.69,Indiana,Marion,81095.11,2008,False
+Indianapolis,Colts,2014,1101258,523004,578254,11,5,Playoffs,0,0.69,Indiana,Marion,82461.37,2008,False
+Indianapolis,Colts,2015,1067476,528381,539095,8,8,No Playoffs,0,0.5,Indiana,Marion,79228.27,2008,False
+Indianapolis,Colts,2016,1100210,524393,575817,8,8,No Playoffs,0,0.5,Indiana,Marion,80755.24,2008,False
+Indianapolis,Colts,2017,1022042,507525,514517,4,12,No Playoffs,0,0.25,Indiana,Marion,81713.75,2008,False
+Indianapolis,Colts,2018,1006361,473598,532763,10,6,Playoffs,0,0.62,Indiana,Marion,82996.65,2008,False
+Jacksonville,Jaguars,2001,987779,483542,504237,6,10,No Playoffs,0,0.38,Florida,Duval,44405.55,1995,False
+Jacksonville,Jaguars,2002,975226,450216,525010,6,10,No Playoffs,0,0.38,Florida,Duval,45375.46,1995,False
+Jacksonville,Jaguars,2003,980628,428072,552556,5,11,No Playoffs,0,0.31,Florida,Duval,47767.91,1995,False
+Jacksonville,Jaguars,2004,1051556,555464,496092,9,7,No Playoffs,0,0.56,Florida,Duval,49576.15,1995,False
+Jacksonville,Jaguars,2005,1037856,525519,512337,12,4,Playoffs,0,0.75,Florida,Duval,51479.77,1995,False
+Jacksonville,Jaguars,2006,1104052,534866,569186,8,8,No Playoffs,0,0.5,Florida,Duval,53291.53,1995,False
+Jacksonville,Jaguars,2007,1066830,522410,544420,11,5,Playoffs,0,0.69,Florida,Duval,53265.66,1995,False
+Jacksonville,Jaguars,2008,1052873,521338,531535,5,11,No Playoffs,0,0.31,Florida,Duval,51198.6,1995,False
+Jacksonville,Jaguars,2009,951161,397214,553947,7,9,No Playoffs,0,0.44,Florida,Duval,48506.89,1995,False
+Jacksonville,Jaguars,2010,1061603,504262,557341,8,8,No Playoffs,0,0.5,Florida,Duval,48647.87,1995,False
+Jacksonville,Jaguars,2011,1049655,498655,551000,5,11,No Playoffs,0,0.31,Florida,Duval,48077.72,1995,False
+Jacksonville,Jaguars,2012,1010570,519872,490698,2,14,No Playoffs,0,0.12,Florida,Duval,48594.95,1995,False
+Jacksonville,Jaguars,2013,1028219,503140,525079,4,12,No Playoffs,0,0.25,Florida,Duval,49788.07,1995,False
+Jacksonville,Jaguars,2014,1066627,524335,542292,3,13,No Playoffs,0,0.19,Florida,Duval,51003.07,1995,False
+Jacksonville,Jaguars,2015,1056511,514268,542243,5,11,No Playoffs,0,0.31,Florida,Duval,53307.59,1995,False
+Jacksonville,Jaguars,2016,1031602,517172,514430,3,13,No Playoffs,0,0.19,Florida,Duval,54932.42,1995,False
+Jacksonville,Jaguars,2017,1049568,514427,535141,10,6,Playoffs,0,0.62,Florida,Duval,57588.04,1995,False
+Jacksonville,Jaguars,2018,1109899,552589,557310,5,11,No Playoffs,0,0.31,Florida,Duval,59046.31,1995,False
+Kansas City,Chiefs,2001,1120677,617488,503189,6,10,No Playoffs,0,0.38,Missouri,Jackson,38746.2,1972,False
+Kansas City,Chiefs,2002,1166177,625503,540674,8,8,No Playoffs,0,0.5,Missouri,Jackson,38673.12,1972,False
+Kansas City,Chiefs,2003,1163872,627840,536032,13,3,Playoffs,0,0.81,Missouri,Jackson,38445.67,1972,False
+Kansas City,Chiefs,2004,1150728,623010,527718,7,9,No Playoffs,0,0.44,Missouri,Jackson,38847.16,1972,False
+Kansas City,Chiefs,2005,1180710,623325,557385,10,6,No Playoffs,0,0.62,Missouri,Jackson,39458.27,1972,False
+Kansas City,Chiefs,2006,1167512,623275,544237,9,7,Playoffs,0,0.56,Missouri,Jackson,38936.38,1972,False
+Kansas City,Chiefs,2007,1143671,614217,529454,4,12,No Playoffs,0,0.25,Missouri,Jackson,38708.73,1972,False
+Kansas City,Chiefs,2008,1142228,592622,549606,2,14,No Playoffs,0,0.12,Missouri,Jackson,39426.45,1972,False
+Kansas City,Chiefs,2009,1049533,540114,509419,4,12,No Playoffs,0,0.25,Missouri,Jackson,38899.98,1972,False
+Kansas City,Chiefs,2010,1069780,541380,528400,10,6,Playoffs,0,0.62,Missouri,Jackson,38966.08,1972,False
+Kansas City,Chiefs,2011,1107206,576659,530547,7,9,No Playoffs,0,0.44,Missouri,Jackson,38498.85,1972,False
+Kansas City,Chiefs,2012,1040043,548070,491973,2,14,No Playoffs,0,0.12,Missouri,Jackson,38986.6,1972,False
+Kansas City,Chiefs,2013,1118007,602877,515130,11,5,Playoffs,0,0.69,Missouri,Jackson,39246.84,1972,False
+Kansas City,Chiefs,2014,1127251,599743,527508,9,7,No Playoffs,0,0.56,Missouri,Jackson,39407.68,1972,False
+Kansas City,Chiefs,2015,1130807,602228,528579,11,5,Playoffs,0,0.69,Missouri,Jackson,40491.12,1972,False
+Kansas City,Chiefs,2016,1115214,586624,528590,12,4,Playoffs,0,0.75,Missouri,Jackson,40473.93,1972,False
+Kansas City,Chiefs,2017,1134166,592851,541315,10,6,Playoffs,0,0.62,Missouri,Jackson,40916.26,1972,False
+Miami,Dolphins,2001,1119236,587756,531480,11,5,Playoffs,0,0.69,Florida,Miami-Dade,105951.0,1987,False
+Miami,Dolphins,2002,1144504,585523,558981,9,7,No Playoffs,0,0.56,Florida,Miami-Dade,109330.0,1987,False
+Miami,Dolphins,2003,1158236,587787,570449,10,6,No Playoffs,0,0.62,Florida,Miami-Dade,111198.0,1987,False
+Miami,Dolphins,2004,1143869,580808,563061,4,12,No Playoffs,0,0.25,Florida,Miami-Dade,117556.0,1987,False
+Miami,Dolphins,2005,1107797,575256,532541,9,7,No Playoffs,0,0.56,Florida,Miami-Dade,123634.0,1987,False
+Miami,Dolphins,2006,1119255,585973,533282,6,10,No Playoffs,0,0.38,Florida,Miami-Dade,126763.0,1987,False
+Miami,Dolphins,2007,1154961,577835,577126,1,15,No Playoffs,0,0.06,Florida,Miami-Dade,126155.0,1987,False
+Miami,Dolphins,2008,1067965,523919,544046,11,5,Playoffs,0,0.69,Florida,Miami-Dade,122939.0,1987,False
+Miami,Dolphins,2009,1094695,540342,554353,7,9,No Playoffs,0,0.44,Florida,Miami-Dade,115271.0,1987,False
+Miami,Dolphins,2010,1077049,541959,535090,7,9,No Playoffs,0,0.44,Florida,Miami-Dade,118579.0,1987,False
+Miami,Dolphins,2011,1064381,487089,577292,6,10,No Playoffs,0,0.38,Florida,Miami-Dade,119756.0,1987,False
+Miami,Dolphins,2012,1005117,459033,546084,7,9,No Playoffs,0,0.44,Florida,Miami-Dade,119448.0,1987,False
+Miami,Dolphins,2013,1041545,514553,526992,8,8,No Playoffs,0,0.5,Florida,Miami-Dade,123798.0,1987,False
+Miami,Dolphins,2014,1128798,560280,568518,8,8,No Playoffs,0,0.5,Florida,Miami-Dade,127728.0,1987,False
+Miami,Dolphins,2015,1093320,537548,555772,6,10,No Playoffs,0,0.38,Florida,Miami-Dade,131625.0,1987,False
+Miami,Dolphins,2016,1073132,524101,549031,10,6,Playoffs,0,0.62,Florida,Miami-Dade,136397.0,1987,False
+Miami,Dolphins,2017,1051161,541022,510139,6,10,No Playoffs,0,0.38,Florida,Miami-Dade,141350.0,1987,False
+Miami,Dolphins,2018,1062180,524480,537700,7,9,No Playoffs,0,0.44,Florida,Miami-Dade,145883.0,1987,False
+Minnesota,Vikings,2001,1045690,513344,532346,5,11,No Playoffs,0,0.31,Minnesota,Hennepin,94361.67,2016,False
+Minnesota,Vikings,2002,1045728,512517,533211,6,10,No Playoffs,0,0.38,Minnesota,Hennepin,94256.0,2016,False
+Minnesota,Vikings,2003,1017297,513437,503860,9,7,No Playoffs,0,0.56,Minnesota,Hennepin,98146.42,2016,False
+Minnesota,Vikings,2004,1045505,512969,532536,8,8,Playoffs,0,0.5,Minnesota,Hennepin,102444.0,2016,False
+Minnesota,Vikings,2005,1063788,511960,551828,9,7,No Playoffs,0,0.56,Minnesota,Hennepin,105999.0,2016,False
+Minnesota,Vikings,2006,1075545,509743,565802,6,10,No Playoffs,0,0.38,Minnesota,Hennepin,102824.0,2016,False
+Minnesota,Vikings,2007,1065131,506046,559085,8,8,No Playoffs,0,0.5,Minnesota,Hennepin,105102.0,2016,False
+Minnesota,Vikings,2008,1023776,506136,517640,10,6,Playoffs,0,0.62,Minnesota,Hennepin,104528.0,2016,False
+Minnesota,Vikings,2009,1034123,510203,523920,12,4,Playoffs,0,0.75,Minnesota,Hennepin,99453.36,2016,False
+Minnesota,Vikings,2010,1029797,470009,559788,6,10,No Playoffs,0,0.38,Minnesota,Hennepin,102379.0,2016,False
+Minnesota,Vikings,2011,1047585,502529,545056,3,13,No Playoffs,0,0.19,Minnesota,Hennepin,104391.0,2016,False
+Minnesota,Vikings,2012,1019702,485802,533900,10,6,Playoffs,0,0.62,Minnesota,Hennepin,107186.0,2016,False
+Minnesota,Vikings,2013,1099551,531653,567898,5,10,No Playoffs,0,0.33,Minnesota,Hennepin,109072.0,2016,False
+Minnesota,Vikings,2014,940423,417906,522517,7,9,No Playoffs,0,0.44,Minnesota,Hennepin,112663.0,2016,False
+Minnesota,Vikings,2015,958016,419440,538576,11,5,Playoffs,0,0.69,Minnesota,Hennepin,114466.0,2016,False
+Minnesota,Vikings,2016,1084502,534289,550213,8,8,No Playoffs,0,0.5,Minnesota,Hennepin,116976.0,2016,True
+Minnesota,Vikings,2017,1099905,533769,566136,13,3,Playoffs,0,0.81,Minnesota,Hennepin,119283.0,2016,False
+Minnesota,Vikings,2018,1090834,534491,556343,8,7,No Playoffs,0,0.53,Minnesota,Hennepin,122552.0,2016,False
+New England,Patriots,2001,977717,482336,495381,11,5,Playoffs,1,0.69,Massachusetts,Norfolk,37658.62,2002,False
+New England,Patriots,2002,1096069,547488,548581,9,7,No Playoffs,0,0.56,Massachusetts,Norfolk,38146.64,2002,True
+New England,Patriots,2003,1127515,547488,580027,14,2,Playoffs,1,0.88,Massachusetts,Norfolk,39802.33,2002,False
+New England,Patriots,2004,1108210,550048,558162,14,2,Playoffs,1,0.88,Massachusetts,Norfolk,39860.98,2002,False
+New England,Patriots,2005,1136903,550048,586855,10,6,Playoffs,0,0.62,Massachusetts,Norfolk,40335.65,2002,False
+New England,Patriots,2006,1110770,550048,560722,12,4,Playoffs,0,0.75,Massachusetts,Norfolk,41703.61,2002,False
+New England,Patriots,2007,1109366,550048,559318,16,0,Playoffs,0,1.0,Massachusetts,Norfolk,42385.19,2002,False
+New England,Patriots,2008,1100148,550048,550100,11,5,No Playoffs,0,0.69,Massachusetts,Norfolk,43357.32,2002,False
+New England,Patriots,2009,1138000,550048,587952,10,6,Playoffs,0,0.62,Massachusetts,Norfolk,41943.27,2002,False
+New England,Patriots,2010,1088753,550048,538705,14,2,Playoffs,0,0.88,Massachusetts,Norfolk,43566.32,2002,False
+New England,Patriots,2011,1114691,550048,564643,13,3,Playoffs,0,0.81,Massachusetts,Norfolk,44127.78,2002,False
+New England,Patriots,2012,1134734,550044,584690,12,4,Playoffs,0,0.75,Massachusetts,Norfolk,44919.18,2002,False
+New England,Patriots,2013,1120817,550048,570769,12,4,Playoffs,0,0.75,Massachusetts,Norfolk,45875.99,2002,False
+New England,Patriots,2014,1111983,550048,561935,12,4,Playoffs,1,0.75,Massachusetts,Norfolk,47218.01,2002,False
+New England,Patriots,2015,1136287,534632,601655,12,4,Playoffs,0,0.75,Massachusetts,Norfolk,49028.14,2002,False
+New England,Patriots,2016,1094772,534632,560140,14,2,Playoffs,1,0.88,Massachusetts,Norfolk,49343.25,2002,False
+New England,Patriots,2017,1099028,527024,572004,13,3,Playoffs,0,0.81,Massachusetts,Norfolk,49807.12,2002,False
+New England,Patriots,2018,1068530,527024,541506,11,5,Playoffs,1,0.69,Massachusetts,Norfolk,51010.9,2002,False
+New Orleans,Saints,2001,1111335,560472,550863,7,9,No Playoffs,0,0.44,Louisiana,Orleans,24768.03,1975,False
+New Orleans,Saints,2002,1068183,542796,525387,9,7,No Playoffs,0,0.56,Louisiana,Orleans,24820.05,1975,False
+New Orleans,Saints,2003,1072640,548894,523746,8,8,No Playoffs,0,0.5,Louisiana,Orleans,24352.8,1975,False
+New Orleans,Saints,2004,985096,513178,471918,8,8,No Playoffs,0,0.5,Louisiana,Orleans,24505.42,1975,False
+New Orleans,Saints,2005,970678,417270,553408,3,13,No Playoffs,0,0.19,Louisiana,Orleans,22691.14,1975,False
+New Orleans,Saints,2006,1108045,550470,557575,10,6,Playoffs,0,0.62,Louisiana,Orleans,19560.71,1975,False
+New Orleans,Saints,2007,1093544,560036,533508,7,9,No Playoffs,0,0.44,Louisiana,Orleans,22296.27,1975,False
+New Orleans,Saints,2008,1125938,573876,552062,8,8,No Playoffs,0,0.5,Louisiana,Orleans,24753.43,1975,False
+New Orleans,Saints,2009,1116009,560840,555169,13,3,Playoffs,1,0.81,Louisiana,Orleans,23977.78,1975,False
+New Orleans,Saints,2010,1113131,560304,552827,11,5,Playoffs,0,0.69,Louisiana,Orleans,24662.96,1975,False
+New Orleans,Saints,2011,1105934,584335,521599,13,3,Playoffs,0,0.81,Louisiana,Orleans,21658.13,1975,False
+New Orleans,Saints,2012,1163696,583107,580589,7,9,No Playoffs,0,0.44,Louisiana,Orleans,21670.68,1975,False
+New Orleans,Saints,2013,1123230,583210,540020,11,5,Playoffs,0,0.69,Louisiana,Orleans,21217.08,1975,False
+New Orleans,Saints,2014,1133987,584900,549087,7,9,No Playoffs,0,0.44,Louisiana,Orleans,21923.08,1975,False
+New Orleans,Saints,2015,1135027,584305,550722,7,9,No Playoffs,0,0.44,Louisiana,Orleans,22624.82,1975,False
+New Orleans,Saints,2016,1141039,584876,556163,7,9,No Playoffs,0,0.44,Louisiana,Orleans,22652.48,1975,False
+New Orleans,Saints,2017,1146046,585113,560933,11,5,Playoffs,0,0.69,Louisiana,Orleans,22640.17,1975,False
+New Orleans,Saints,2018,1147700,584411,563289,13,3,Playoffs,0,0.81,Louisiana,Orleans,23196.85,1975,False
+New York,Giants,2001,1156600,627985,528615,7,9,No Playoffs,0,0.44,New Jersey,Bergen,60540.86,2010,False
+New York,Giants,2002,1123668,629211,494457,10,6,Playoffs,0,0.62,New Jersey,Bergen,61354.96,2010,False
+New York,Giants,2003,1190530,628960,561570,4,12,No Playoffs,0,0.25,New Jersey,Bergen,62660.66999999999,2010,False
+New York,Giants,2004,1160690,629874,530816,6,10,No Playoffs,0,0.38,New Jersey,Bergen,63662.38999999999,2010,False
+New York,Giants,2005,1157637,628519,529118,11,5,Playoffs,0,0.69,New Jersey,Bergen,64233.78,2010,False
+New York,Giants,2006,1196814,628910,567904,8,8,Playoffs,0,0.5,New Jersey,Bergen,64154.13,2010,False
+New York,Giants,2007,1197501,629848,567653,10,6,Playoffs,1,0.62,New Jersey,Bergen,64702.159999999996,2010,False
+New York,Giants,2008,1179158,632554,546604,12,4,Playoffs,0,0.75,New Jersey,Bergen,65307.98000000001,2010,False
+New York,Giants,2009,1223927,629615,594312,8,8,No Playoffs,0,0.5,New Jersey,Bergen,63498.12,2010,False
+New York,Giants,2010,1190095,631156,558939,10,6,No Playoffs,0,0.62,New Jersey,Bergen,64608.12,2010,True
+New York,Giants,2011,1232157,635800,596357,9,7,Playoffs,1,0.56,New Jersey,Bergen,64300.8,2010,False
+New York,Giants,2012,1229929,643964,585965,9,7,No Playoffs,0,0.56,New Jersey,Bergen,64632.38999999999,2010,False
+New York,Giants,2013,1209532,641184,568348,7,9,No Playoffs,0,0.44,New Jersey,Bergen,64250.73000000001,2010,False
+New York,Giants,2014,1195369,631738,563631,6,10,No Playoffs,0,0.38,New Jersey,Bergen,64882.83000000001,2010,False
+New York,Giants,2015,1198163,632011,566152,6,10,No Playoffs,0,0.38,New Jersey,Bergen,64989.03999999999,2010,False
+New York,Giants,2016,1217320,630315,587005,11,5,Playoffs,0,0.69,New Jersey,Bergen,64865.06,2010,False
+New York,Giants,2017,1183037,617434,565603,3,13,No Playoffs,0,0.19,New Jersey,Bergen,64494.86000000001,2010,False
+New York,Giants,2018,1183132,615525,567607,5,11,No Playoffs,0,0.31,New Jersey,Bergen,66148.89,2010,False
+New York,Jets,2001,1158872,627808,531064,10,6,Playoffs,0,0.62,New Jersey,Bergen,60540.86,2010,False
+New York,Jets,2002,1145070,628812,516258,9,7,Playoffs,0,0.56,New Jersey,Bergen,61354.96,2010,False
+New York,Jets,2003,1169808,622255,547553,6,10,No Playoffs,0,0.38,New Jersey,Bergen,62660.66999999999,2010,False
+New York,Jets,2004,1132803,623181,509622,10,6,Playoffs,0,0.62,New Jersey,Bergen,63662.38999999999,2010,False
+New York,Jets,2005,1202681,619958,582723,4,12,No Playoffs,0,0.25,New Jersey,Bergen,64233.78,2010,False
+New York,Jets,2006,1175356,618575,556781,10,6,Playoffs,0,0.62,New Jersey,Bergen,64154.13,2010,False
+New York,Jets,2007,1175701,616855,558846,4,12,No Playoffs,0,0.25,New Jersey,Bergen,64702.159999999996,2010,False
+New York,Jets,2008,1170229,627858,542371,9,7,No Playoffs,0,0.56,New Jersey,Bergen,65307.98000000001,2010,False
+New York,Jets,2009,1115944,616420,499524,9,7,Playoffs,0,0.56,New Jersey,Bergen,63498.12,2010,False
+New York,Jets,2010,1163375,628768,534607,11,5,Playoffs,0,0.69,New Jersey,Bergen,64608.12,2010,True
+New York,Jets,2011,1187392,631888,555504,8,8,No Playoffs,0,0.5,New Jersey,Bergen,64300.8,2010,False
+New York,Jets,2012,1142324,632704,509620,6,10,No Playoffs,0,0.38,New Jersey,Bergen,64632.38999999999,2010,False
+New York,Jets,2013,1169108,615656,553452,8,8,No Playoffs,0,0.5,New Jersey,Bergen,64250.73000000001,2010,False
+New York,Jets,2014,1157234,625280,531954,4,12,No Playoffs,0,0.25,New Jersey,Bergen,64882.83000000001,2010,False
+New York,Jets,2015,1207646,625280,582366,10,6,No Playoffs,0,0.62,New Jersey,Bergen,64989.03999999999,2010,False
+New York,Jets,2016,1168377,625280,543097,5,11,No Playoffs,0,0.31,New Jersey,Bergen,64865.06,2010,False
+New York,Jets,2017,1143358,620496,522862,5,11,No Playoffs,0,0.31,New Jersey,Bergen,64494.86000000001,2010,False
+New York,Jets,2018,1130823,623856,506967,4,12,No Playoffs,0,0.25,New Jersey,Bergen,66148.89,2010,False
+Oakland,Raiders,2001,1035571,472091,563480,10,6,Playoffs,0,0.62,Nevada,Clark,72950.5,2020,False
+Oakland,Raiders,2002,1042142,485092,557050,11,5,Playoffs,0,0.69,Nevada,Clark,75901.1,2020,False
+Oakland,Raiders,2003,975793,440063,535730,4,12,No Playoffs,0,0.25,Nevada,Clark,80032.55,2020,False
+Oakland,Raiders,2004,957623,405936,551687,5,11,No Playoffs,0,0.31,Nevada,Clark,90277.85,2020,False
+Oakland,Raiders,2005,1013461,418450,595011,4,12,No Playoffs,0,0.25,Nevada,Clark,99284.58,2020,False
+Oakland,Raiders,2006,1039706,467964,571742,2,14,No Playoffs,0,0.12,Nevada,Clark,103461.0,2020,False
+Oakland,Raiders,2007,1033850,472876,560974,4,12,No Playoffs,0,0.25,Nevada,Clark,103111.0,2020,False
+Oakland,Raiders,2008,1024023,462800,561223,5,11,No Playoffs,0,0.31,Nevada,Clark,99000.39,2020,False
+Oakland,Raiders,2009,927539,354276,573263,5,11,No Playoffs,0,0.31,Nevada,Clark,89834.27,2020,False
+Oakland,Raiders,2010,911382,371448,539934,8,8,No Playoffs,0,0.5,Nevada,Clark,89183.88,2020,False
+Oakland,Raiders,2011,1018629,473938,544691,8,8,No Playoffs,0,0.5,Nevada,Clark,90449.13,2020,False
+Oakland,Raiders,2012,976231,433732,542499,4,12,No Playoffs,0,0.25,Nevada,Clark,89213.58,2020,False
+Oakland,Raiders,2013,1004636,403556,601080,4,12,No Playoffs,0,0.25,Nevada,Clark,90568.17,2020,False
+Oakland,Raiders,2014,1013469,459333,554136,3,13,No Playoffs,0,0.19,Nevada,Clark,92438.24,2020,False
+Oakland,Raiders,2015,970514,436397,534117,7,9,No Playoffs,0,0.44,Nevada,Clark,96610.56,2020,False
+Oakland,Raiders,2016,1009172,458561,550611,12,4,Playoffs,0,0.75,Nevada,Clark,99198.17,2020,False
+Oakland,Raiders,2017,988483,461137,527346,6,10,No Playoffs,0,0.38,Nevada,Clark,101392.0,2020,False
+Oakland,Raiders,2018,955258,463353,491905,4,12,No Playoffs,0,0.25,Nevada,Clark,107623.0,2020,False
+Philadelphia,Eagles,2001,1061162,527193,533969,11,5,Playoffs,0,0.69,Pennsylvania,Philadelphia,71008.91,2003,False
+Philadelphia,Eagles,2002,1066147,523535,542612,12,4,Playoffs,0,0.75,Pennsylvania,Philadelphia,70914.84,2003,False
+Philadelphia,Eagles,2003,1124063,544349,579714,12,4,Playoffs,0,0.75,Pennsylvania,Philadelphia,73344.52,2003,True
+Philadelphia,Eagles,2004,1102843,540870,561973,13,3,Playoffs,0,0.81,Pennsylvania,Philadelphia,77422.68,2003,False
+Philadelphia,Eagles,2005,1109699,541393,568306,6,10,No Playoffs,0,0.38,Pennsylvania,Philadelphia,78482.52,2003,False
+Philadelphia,Eagles,2006,1109173,553794,555379,10,6,Playoffs,0,0.62,Pennsylvania,Philadelphia,78980.25,2003,False
+Philadelphia,Eagles,2007,1127787,545357,582430,8,8,No Playoffs,0,0.5,Pennsylvania,Philadelphia,86371.47,2003,False
+Philadelphia,Eagles,2008,1111845,553152,558693,9,6,Playoffs,0,0.6,Pennsylvania,Philadelphia,93653.67,2003,False
+Philadelphia,Eagles,2009,1144895,553152,591743,11,5,Playoffs,0,0.69,Pennsylvania,Philadelphia,89756.72,2003,False
+Philadelphia,Eagles,2010,1125926,553152,572774,10,6,Playoffs,0,0.62,Pennsylvania,Philadelphia,91470.13,2003,False
+Philadelphia,Eagles,2011,1129171,553152,576019,8,8,No Playoffs,0,0.5,Pennsylvania,Philadelphia,92410.43,2003,False
+Philadelphia,Eagles,2012,1126893,553152,573741,4,12,No Playoffs,0,0.25,Pennsylvania,Philadelphia,97432.36,2003,False
+Philadelphia,Eagles,2013,1141155,553152,588003,10,6,Playoffs,0,0.62,Pennsylvania,Philadelphia,99952.27,2003,False
+Philadelphia,Eagles,2014,1153703,556768,596935,10,6,No Playoffs,0,0.62,Pennsylvania,Philadelphia,102508.0,2003,False
+Philadelphia,Eagles,2015,1154629,555868,598761,7,9,No Playoffs,0,0.44,Pennsylvania,Philadelphia,105087.0,2003,False
+Philadelphia,Eagles,2016,1125298,556768,568530,7,9,No Playoffs,0,0.44,Pennsylvania,Philadelphia,110272.0,2003,False
+Philadelphia,Eagles,2017,1117141,556768,560373,13,3,Playoffs,1,0.81,Pennsylvania,Philadelphia,106853.0,2003,False
+Philadelphia,Eagles,2018,1149737,557568,592169,9,7,Playoffs,0,0.56,Pennsylvania,Philadelphia,110735.0,2003,False
+Pittsburgh,Steelers,2001,1055127,499191,555936,13,3,Playoffs,0,0.81,Pennsylvania,Allegheny,71601.91,2001,True
+Pittsburgh,Steelers,2002,1023448,490274,533174,10,5,Playoffs,0,0.67,Pennsylvania,Allegheny,72015.47,2001,False
+Pittsburgh,Steelers,2003,1052513,477584,574929,6,10,No Playoffs,0,0.38,Pennsylvania,Allegheny,73521.93,2001,False
+Pittsburgh,Steelers,2004,1082241,507385,574856,15,1,Playoffs,0,0.94,Pennsylvania,Allegheny,74123.92,2001,False
+Pittsburgh,Steelers,2005,1048739,507434,541305,11,5,Playoffs,1,0.69,Pennsylvania,Allegheny,74193.16,2001,False
+Pittsburgh,Steelers,2006,1052087,499461,552626,8,8,No Playoffs,0,0.5,Pennsylvania,Allegheny,72630.12,2001,False
+Pittsburgh,Steelers,2007,1061307,496675,564632,10,6,Playoffs,0,0.62,Pennsylvania,Allegheny,74145.84,2001,False
+Pittsburgh,Steelers,2008,1076998,503125,573873,12,4,Playoffs,1,0.75,Pennsylvania,Allegheny,75889.12,2001,False
+Pittsburgh,Steelers,2009,1051386,507882,543504,9,7,No Playoffs,0,0.56,Pennsylvania,Allegheny,74885.88,2001,False
+Pittsburgh,Steelers,2010,1049715,504669,545046,12,4,Playoffs,0,0.75,Pennsylvania,Allegheny,77118.96,2001,False
+Pittsburgh,Steelers,2011,1049515,504279,545236,12,4,Playoffs,0,0.75,Pennsylvania,Allegheny,78442.33,2001,False
+Pittsburgh,Steelers,2012,1078574,489135,589439,8,8,No Playoffs,0,0.5,Pennsylvania,Allegheny,79959.04,2001,False
+Pittsburgh,Steelers,2013,1025772,458489,567283,8,8,No Playoffs,0,0.5,Pennsylvania,Allegheny,80513.64,2001,False
+Pittsburgh,Steelers,2014,1060542,497811,562731,11,5,Playoffs,0,0.69,Pennsylvania,Allegheny,81145.34,2001,False
+Pittsburgh,Steelers,2015,1050712,514854,535858,10,6,Playoffs,0,0.62,Pennsylvania,Allegheny,83017.8,2001,False
+Pittsburgh,Steelers,2016,1065627,514503,551124,11,5,Playoffs,0,0.69,Pennsylvania,Allegheny,82618.28,2001,False
+Pittsburgh,Steelers,2017,1035491,499768,535723,13,3,Playoffs,0,0.81,Pennsylvania,Allegheny,84107.61,2001,False
+Pittsburgh,Steelers,2018,1040509,507651,532858,9,6,No Playoffs,0,0.6,Pennsylvania,Allegheny,86799.51,2001,False
+San Diego,Chargers,2001,1005530,474844,530686,5,11,No Playoffs,0,0.31,California,Los Angeles,476894.0,2020,False
+San Diego,Chargers,2002,992665,494973,497692,8,8,No Playoffs,0,0.5,California,Los Angeles,489908.0,2020,False
+San Diego,Chargers,2003,997271,492165,505106,4,12,No Playoffs,0,0.25,California,Los Angeles,511543.0,2020,False
+San Diego,Chargers,2004,1027704,485462,542242,12,4,Playoffs,0,0.75,California,Los Angeles,532118.0,2020,False
+San Diego,Chargers,2005,1090332,529916,560416,9,7,No Playoffs,0,0.56,California,Los Angeles,550159.0,2020,False
+San Diego,Chargers,2006,1084416,531031,553385,14,2,Playoffs,0,0.88,California,Los Angeles,574282.0,2020,False
+San Diego,Chargers,2007,1075885,524019,551866,11,5,Playoffs,0,0.69,California,Los Angeles,581246.0,2020,False
+San Diego,Chargers,2008,1103392,545107,558285,8,8,Playoffs,0,0.5,California,Los Angeles,592301.0,2020,False
+San Diego,Chargers,2009,1116821,540345,576476,13,3,Playoffs,0,0.81,California,Los Angeles,564544.0,2020,False
+San Diego,Chargers,2010,1028715,524241,504474,9,7,No Playoffs,0,0.56,California,Los Angeles,576056.0,2020,False
+San Diego,Chargers,2011,1064892,523143,541749,8,8,No Playoffs,0,0.5,California,Los Angeles,588098.0,2020,False
+San Diego,Chargers,2012,1022066,479716,542350,7,9,No Playoffs,0,0.44,California,Los Angeles,594533.0,2020,False
+San Diego,Chargers,2013,1052439,513641,538798,9,7,Playoffs,0,0.56,California,Los Angeles,608065.0,2020,False
+San Diego,Chargers,2014,1069529,523457,546072,9,7,No Playoffs,0,0.56,California,Los Angeles,626603.0,2020,False
+San Diego,Chargers,2015,1056457,534180,522277,4,12,No Playoffs,0,0.25,California,Los Angeles,653885.0,2020,False
+San Diego,Chargers,2016,998070,456197,541873,5,11,No Playoffs,0,0.31,California,Los Angeles,667706.0,2020,False
+Los Angeles,Chargers,2017,783367,202687,580680,9,7,No Playoffs,0,0.56,California,Los Angeles,688662.0,2020,False
+Los Angeles,Chargers,2018,803556,262145,541411,12,4,Playoffs,0,0.75,California,Los Angeles,710893.0,2020,False
+San Francisco,49ers,2001,1061811,539756,522055,12,4,Playoffs,0,0.75,California,Santa Clara,116251.0,2014,False
+San Francisco,49ers,2002,1058751,541593,517158,10,6,Playoffs,0,0.62,California,Santa Clara,111226.0,2014,False
+San Francisco,49ers,2003,1050337,540644,509693,7,9,No Playoffs,0,0.44,California,Santa Clara,117938.0,2014,False
+San Francisco,49ers,2004,1024975,518271,506704,2,14,No Playoffs,0,0.12,California,Santa Clara,123329.0,2014,False
+San Francisco,49ers,2005,1113073,523426,589647,4,12,No Playoffs,0,0.25,California,Santa Clara,131567.0,2014,False
+San Francisco,49ers,2006,1086093,545207,540886,7,9,No Playoffs,0,0.44,California,Santa Clara,140959.0,2014,False
+San Francisco,49ers,2007,1097841,544226,553615,5,11,No Playoffs,0,0.31,California,Santa Clara,153508.0,2014,False
+San Francisco,49ers,2008,1076358,540103,536255,7,9,No Playoffs,0,0.44,California,Santa Clara,161831.0,2014,False
+San Francisco,49ers,2009,1075599,557856,517743,8,8,No Playoffs,0,0.5,California,Santa Clara,158587.0,2014,False
+San Francisco,49ers,2010,1100435,572065,528370,6,10,No Playoffs,0,0.38,California,Santa Clara,172556.0,2014,False
+San Francisco,49ers,2011,1065296,557856,507440,13,3,Playoffs,0,0.81,California,Santa Clara,185602.0,2014,False
+San Francisco,49ers,2012,1094908,557856,537052,11,4,Playoffs,0,0.73,California,Santa Clara,192296.0,2014,False
+San Francisco,49ers,2013,1116046,557856,558190,12,4,Playoffs,0,0.75,California,Santa Clara,211513.0,2014,False
+San Francisco,49ers,2014,1130143,566192,563951,8,8,No Playoffs,0,0.5,California,Santa Clara,229228.0,2014,True
+San Francisco,49ers,2015,1082259,566092,516167,5,11,No Playoffs,0,0.31,California,Santa Clara,251750.0,2014,False
+San Francisco,49ers,2016,1119165,561424,557741,2,14,No Playoffs,0,0.12,California,Santa Clara,268422.0,2014,False
+San Francisco,49ers,2017,1104010,561155,542855,6,10,No Playoffs,0,0.38,California,Santa Clara,287235.0,2014,False
+San Francisco,49ers,2018,1052454,553190,499264,4,12,No Playoffs,0,0.25,California,Santa Clara,316526.0,2014,False
+Seattle,Seahawks,2001,1034365,482818,551547,9,7,No Playoffs,0,0.56,Washington,King,150052.0,2002,False
+Seattle,Seahawks,2002,984773,504621,480152,7,9,No Playoffs,0,0.44,Washington,King,150425.0,2002,True
+Seattle,Seahawks,2003,1005938,512150,493788,10,6,Playoffs,0,0.62,Washington,King,152859.0,2002,False
+Seattle,Seahawks,2004,1040347,533436,506911,9,7,Playoffs,0,0.56,Washington,King,155469.0,2002,False
+Seattle,Seahawks,2005,1067926,532954,534972,13,3,Playoffs,0,0.81,Washington,King,164783.0,2002,False
+Seattle,Seahawks,2006,1083593,543820,539773,9,7,Playoffs,0,0.56,Washington,King,168793.0,2002,False
+Seattle,Seahawks,2007,1087363,545551,541812,10,6,Playoffs,0,0.62,Washington,King,179772.0,2002,False
+Seattle,Seahawks,2008,1075115,543965,531150,4,12,No Playoffs,0,0.25,Washington,King,183713.0,2002,False
+Seattle,Seahawks,2009,1070287,539141,531146,5,11,No Playoffs,0,0.31,Washington,King,176212.0,2002,False
+Seattle,Seahawks,2010,1009483,535942,473541,7,9,Playoffs,0,0.44,Washington,King,180202.0,2002,False
+Seattle,Seahawks,2011,1070956,531311,539645,7,9,No Playoffs,0,0.44,Washington,King,187244.0,2002,False
+Seattle,Seahawks,2012,1017029,543570,473459,11,5,Playoffs,0,0.69,Washington,King,200427.0,2002,False
+Seattle,Seahawks,2013,1094133,545577,548556,13,3,Playoffs,1,0.81,Washington,King,208739.0,2002,False
+Seattle,Seahawks,2014,1107297,547298,559999,12,4,Playoffs,0,0.75,Washington,King,220596.0,2002,False
+Seattle,Seahawks,2015,1097931,552162,545769,10,6,Playoffs,0,0.62,Washington,King,232149.0,2002,False
+Seattle,Seahawks,2016,1138809,552588,586221,10,5,Playoffs,0,0.67,Washington,King,241900.0,2002,False
+Seattle,Seahawks,2017,1129943,551809,578134,9,7,No Playoffs,0,0.56,Washington,King,257454.0,2002,False
+Seattle,Seahawks,2018,1114327,552009,562318,10,6,Playoffs,0,0.62,Washington,King,277122.0,2002,False
+St. Louis,Rams,2001,1081519,528829,552690,14,2,Playoffs,0,0.88,California,Los Angeles,476894.0,2020,False
+St. Louis,Rams,2002,1073461,528498,544963,7,9,No Playoffs,0,0.44,California,Los Angeles,489908.0,2020,False
+St. Louis,Rams,2003,1041463,528456,513007,12,4,Playoffs,0,0.75,California,Los Angeles,511543.0,2020,False
+St. Louis,Rams,2004,1060941,527384,533557,8,8,Playoffs,0,0.5,California,Los Angeles,532118.0,2020,False
+St. Louis,Rams,2005,1036861,523685,513176,6,10,No Playoffs,0,0.38,California,Los Angeles,550159.0,2020,False
+St. Louis,Rams,2006,1046325,522610,523715,8,8,No Playoffs,0,0.5,California,Los Angeles,574282.0,2020,False
+St. Louis,Rams,2007,1049682,514354,535328,3,13,No Playoffs,0,0.19,California,Los Angeles,581246.0,2020,False
+St. Louis,Rams,2008,1050114,479843,570271,2,14,No Playoffs,0,0.12,California,Los Angeles,592301.0,2020,False
+St. Louis,Rams,2009,943627,441901,501726,1,15,No Playoffs,0,0.06,California,Los Angeles,564544.0,2020,False
+St. Louis,Rams,2010,911195,423383,487812,7,9,No Playoffs,0,0.44,California,Los Angeles,576056.0,2020,False
+St. Louis,Rams,2011,1002051,451153,550898,2,14,No Playoffs,0,0.12,California,Los Angeles,588098.0,2020,False
+St. Louis,Rams,2012,975825,480929,494896,7,8,No Playoffs,0,0.47,California,Los Angeles,594533.0,2020,False
+St. Louis,Rams,2013,1014994,455657,559337,7,9,No Playoffs,0,0.44,California,Los Angeles,608065.0,2020,False
+St. Louis,Rams,2014,999412,456146,543266,6,10,No Playoffs,0,0.38,California,Los Angeles,626603.0,2020,False
+St. Louis,Rams,2015,957670,419220,538450,7,9,No Playoffs,0,0.44,California,Los Angeles,653885.0,2020,False
+Los Angeles,Rams,2016,1198268,665318,532950,4,12,No Playoffs,0,0.25,California,Los Angeles,667706.0,2020,False
+Los Angeles,Rams,2017,1062261,507136,555125,11,5,Playoffs,0,0.69,California,Los Angeles,688662.0,2020,False
+Los Angeles,Rams,2018,1102409,579439,522970,13,3,Playoffs,0,0.81,California,Los Angeles,710893.0,2020,False
+Tampa Bay,Buccaneers,2001,1038298,524468,513830,9,7,Playoffs,0,0.56,Florida,Hillsborough,53939.18,1998,False
+Tampa Bay,Buccaneers,2002,1044920,525031,519889,12,4,Playoffs,1,0.75,Florida,Hillsborough,55963.14,1998,False
+Tampa Bay,Buccaneers,2003,1087333,524352,562981,7,9,No Playoffs,0,0.44,Florida,Hillsborough,58899.94,1998,False
+Tampa Bay,Buccaneers,2004,1046074,522720,523354,5,11,No Playoffs,0,0.31,Florida,Hillsborough,63016.06,1998,False
+Tampa Bay,Buccaneers,2005,1044836,521741,523095,11,5,Playoffs,0,0.69,Florida,Hillsborough,66862.77,1998,False
+Tampa Bay,Buccaneers,2006,1070781,524661,546120,4,12,No Playoffs,0,0.25,Florida,Hillsborough,68278.56,1998,False
+Tampa Bay,Buccaneers,2007,1059844,522530,537314,9,7,Playoffs,0,0.56,Florida,Hillsborough,68553.76,1998,False
+Tampa Bay,Buccaneers,2008,1049053,516088,532965,9,7,No Playoffs,0,0.56,Florida,Hillsborough,66914.31,1998,False
+Tampa Bay,Buccaneers,2009,1093669,525194,568475,3,13,No Playoffs,0,0.19,Florida,Hillsborough,64683.03,1998,False
+Tampa Bay,Buccaneers,2010,937014,394513,542501,10,6,No Playoffs,0,0.62,Florida,Hillsborough,65288.46000000001,1998,False
+Tampa Bay,Buccaneers,2011,1019250,473281,545969,4,12,No Playoffs,0,0.25,Florida,Hillsborough,66304.11,1998,False
+Tampa Bay,Buccaneers,2012,1004457,440819,563638,7,9,No Playoffs,0,0.44,Florida,Hillsborough,67458.17,1998,False
+Tampa Bay,Buccaneers,2013,1016122,470548,545574,4,12,No Playoffs,0,0.25,Florida,Hillsborough,68868.7,1998,False
+Tampa Bay,Buccaneers,2014,1023818,477273,546545,2,14,No Playoffs,0,0.12,Florida,Hillsborough,69940.54,1998,False
+Tampa Bay,Buccaneers,2015,1041376,492460,548916,6,10,No Playoffs,0,0.38,Florida,Hillsborough,73150.53,1998,False
+Tampa Bay,Buccaneers,2016,1054600,484998,569602,9,7,No Playoffs,0,0.56,Florida,Hillsborough,75304.75,1998,False
+Tampa Bay,Buccaneers,2017,1036961,479618,557343,5,11,No Playoffs,0,0.31,Florida,Hillsborough,77317.57,1998,False
+Tampa Bay,Buccaneers,2018,999843,434855,564988,5,11,No Playoffs,0,0.31,Florida,Hillsborough,79951.44,1998,False
+Tennessee,Titans,2001,1089472,550393,539079,7,9,No Playoffs,0,0.44,Tennessee,Davidson,42083.19,1999,False
+Tennessee,Titans,2002,1050989,550437,500552,11,5,Playoffs,0,0.69,Tennessee,Davidson,42759.2,1999,False
+Tennessee,Titans,2003,1087279,550472,536807,12,4,Playoffs,0,0.75,Tennessee,Davidson,44175.17,1999,False
+Tennessee,Titans,2004,1051732,551210,500522,5,11,No Playoffs,0,0.31,Tennessee,Davidson,45276.19,1999,False
+Tennessee,Titans,2005,1059178,553192,505986,4,12,No Playoffs,0,0.25,Tennessee,Davidson,46035.23,1999,False
+Tennessee,Titans,2006,1097073,553144,543929,8,8,No Playoffs,0,0.5,Tennessee,Davidson,46942.81,1999,False
+Tennessee,Titans,2007,1098921,553144,545777,10,6,Playoffs,0,0.62,Tennessee,Davidson,46137.58,1999,False
+Tennessee,Titans,2008,1088061,553144,534917,13,3,Playoffs,0,0.81,Tennessee,Davidson,48000.29,1999,False
+Tennessee,Titans,2009,1086095,553144,532951,8,8,No Playoffs,0,0.5,Tennessee,Davidson,47835.1,1999,False
+Tennessee,Titans,2010,1114265,553144,561121,6,10,No Playoffs,0,0.38,Tennessee,Davidson,48684.45,1999,False
+Tennessee,Titans,2011,1077697,553144,524553,9,7,No Playoffs,0,0.56,Tennessee,Davidson,50039.91,1999,False
+Tennessee,Titans,2012,1070701,553144,517557,6,10,No Playoffs,0,0.38,Tennessee,Davidson,51930.79,1999,False
+Tennessee,Titans,2013,1057807,553144,504663,7,9,No Playoffs,0,0.44,Tennessee,Davidson,51845.08,1999,False
+Tennessee,Titans,2014,1096866,553144,543722,2,14,No Playoffs,0,0.12,Tennessee,Davidson,54222.26,1999,False
+Tennessee,Titans,2015,1045359,498435,546924,3,13,No Playoffs,0,0.19,Tennessee,Davidson,57477.38,1999,False
+Tennessee,Titans,2016,1016507,517273,499234,9,7,No Playoffs,0,0.56,Tennessee,Davidson,59360.69,1999,False
+Tennessee,Titans,2017,1040119,525214,514905,9,7,Playoffs,0,0.56,Tennessee,Davidson,61051.77,1999,False
+Tennessee,Titans,2018,1092094,516161,575933,9,7,No Playoffs,0,0.56,Tennessee,Davidson,63848.009999999995,1999,False
+Houston,Texans,2002,1061722,559322,502400,4,12,No Playoffs,0,0.25,Texas,Harris,245349.0,2002,True
+Houston,Texans,2003,1061690,563748,497942,5,11,No Playoffs,0,0.31,Texas,Harris,245687.0,2002,False
+Houston,Texans,2004,1110049,565192,544857,7,9,No Playoffs,0,0.44,Texas,Harris,267388.0,2002,False
+Houston,Texans,2005,1094938,562397,532541,2,14,No Playoffs,0,0.12,Texas,Harris,271829.0,2002,False
+Houston,Texans,2006,1086443,561469,524974,6,10,No Playoffs,0,0.38,Texas,Harris,290234.0,2002,False
+Houston,Texans,2007,1080028,564159,515869,8,8,No Playoffs,0,0.5,Texas,Harris,314155.0,2002,False
+Houston,Texans,2008,1075618,563364,512254,8,8,No Playoffs,0,0.5,Texas,Harris,308045.0,2002,False
+Houston,Texans,2009,1049850,564864,484986,9,7,No Playoffs,0,0.56,Texas,Harris,305409.0,2002,False
+Houston,Texans,2010,1108625,568643,539982,6,10,No Playoffs,0,0.38,Texas,Harris,317926.0,2002,False
+Houston,Texans,2011,1059702,571969,487733,10,6,Playoffs,0,0.62,Texas,Harris,326652.0,2002,False
+Houston,Texans,2012,1123975,573321,550654,12,4,Playoffs,0,0.75,Texas,Harris,335716.0,2002,False
+Houston,Texans,2013,1103683,573271,530412,2,14,No Playoffs,0,0.12,Texas,Harris,345112.0,2002,False
+Houston,Texans,2014,1115983,574132,541851,9,7,No Playoffs,0,0.56,Texas,Harris,343064.0,2002,False
+Houston,Texans,2015,1098814,574159,524655,9,7,Playoffs,0,0.56,Texas,Harris,358868.0,2002,False
+Houston,Texans,2016,1132210,574947,557263,9,7,Playoffs,0,0.56,Texas,Harris,350523.0,2002,False
+Houston,Texans,2017,1080447,574197,506250,4,12,No Playoffs,0,0.25,Texas,Harris,351838.0,2002,False
+Houston,Texans,2018,1112480,574439,538041,11,5,Playoffs,0,0.69,Texas,Harris,361353.0,2002,False
